@@ -73,7 +73,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-04-22T21:43:55.540597",
+    "last_updated": "2026-04-22T22:31:46.178714",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.101"
@@ -605,7 +605,7 @@
     "p_max": 1004,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-04-22T21:43:55.539551",
+    "calculation_timestamp": "2026-04-22T22:31:46.177621",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
@@ -623,7 +623,7 @@
       "id": "i142099117",
       "date": "2026-04-22T18:06:54",
       "type": "Ride",
-      "name": "Radfahren",
+      "name": "TCC",
       "duration_hours": 2.07,
       "distance_km": 63.07,
       "tss": 104,
