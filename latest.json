@@ -73,7 +73,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-04-23T23:03:46.353244",
+    "last_updated": "2026-04-24T00:00:02.457377",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.101"
@@ -443,7 +443,7 @@
       "sustainability_profile": {
         "window": {
           "days": 42,
-          "start": "2026-03-13",
+          "start": "2026-03-14",
           "end": "2026-04-23"
         },
         "weight_kg": 80.0,
@@ -538,7 +538,7 @@
           "coverage_ratio": 1.0,
           "ftp_used": 301,
           "w_prime_used": 24990,
-          "ftp_staleness_days": 0,
+          "ftp_staleness_days": 1,
           "model_trust_note": "CP/W' model (P=CP+W'/t) is primary for durations \u226420min where W' contribution is meaningful. Coggan duration factors (Allen & Coggan, 3rd ed.) are the established reference for \u226560min. 30min is the crossover zone where both apply. model_divergence_pct = (actual - CP_model) / CP_model \u00d7 100. Positive divergence at short durations may indicate strong anaerobic capacity or stale W' value. Indoor MMP is typically 3-5% lower than outdoor (cooling, motivation) \u2014 source flag indicates which environment produced each anchor."
         }
       },
@@ -605,7 +605,7 @@
     "p_max": 1003,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-04-23T23:03:46.352154",
+    "calculation_timestamp": "2026-04-24T00:00:02.456305",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
@@ -1259,7 +1259,7 @@
           "z7_time": 264
         }
       },
-      "has_intervals": true,
+      "has_intervals": false,
       "has_dfa": false,
       "description": "Alles wie immer"
     },
