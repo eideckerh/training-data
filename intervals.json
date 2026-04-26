@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T23:52:27.330938",
+  "generated_at": "2026-04-26T01:24:52.641801",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
@@ -479,27 +479,6 @@
           "zone": 2,
           "training_load": 25.592659,
           "decoupling": 2.2051091
-        }
-      ]
-    },
-    {
-      "activity_id": "i139294069",
-      "date": "2026-04-11",
-      "type": "Ride",
-      "name": "\ud83d\udc4b\ud83c\udffc Enschede",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 7562,
-          "avg_power": 188,
-          "max_power": 617,
-          "avg_hr": 138,
-          "max_hr": 151,
-          "avg_cadence": 74.56876,
-          "zone": 2,
-          "training_load": 93.47486,
-          "decoupling": -7.644568
         }
       ]
     },
