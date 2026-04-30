@@ -73,7 +73,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-04-30T16:53:13.578456",
+    "last_updated": "2026-04-30T18:02:03.748915",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.101"
@@ -595,7 +595,7 @@
     "p_max": 999,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-04-30T16:53:13.577400",
+    "calculation_timestamp": "2026-04-30T18:02:03.747832",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
@@ -613,7 +613,7 @@
       "id": "i144356225",
       "date": "2026-04-30T16:50:17",
       "type": "Ride",
-      "name": "Starlight -2",
+      "name": "Mittwoch 2.0",
       "duration_hours": 1.95,
       "distance_km": 61.1,
       "tss": 120,
