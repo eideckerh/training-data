@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T17:29:16.342202",
+  "generated_at": "2026-05-12T19:17:11.618301",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
@@ -1449,6 +1449,80 @@
           "zone": 2,
           "training_load": 19.82178,
           "decoupling": 6.0616784
+        }
+      ]
+    },
+    {
+      "activity_id": "i147643856",
+      "date": "2026-05-12",
+      "type": "Ride",
+      "name": "Radfahren",
+      "interval_summary": [
+        "1x 72s 371w",
+        "1x 20s 460w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 982,
+          "avg_power": 129,
+          "max_power": 477,
+          "avg_hr": 126,
+          "max_hr": 140,
+          "avg_cadence": 68.15244,
+          "zone": 1,
+          "training_load": 6.248557,
+          "decoupling": 4.0497456
+        },
+        {
+          "type": "WORK",
+          "label": "72s@371w93rpm",
+          "duration_secs": 72,
+          "avg_power": 371,
+          "max_power": 487,
+          "avg_hr": 149,
+          "max_hr": 160,
+          "avg_cadence": 93.34722,
+          "zone": 6,
+          "training_load": 2.492158,
+          "decoupling": 1.701566
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 234,
+          "avg_power": 214,
+          "max_power": 714,
+          "avg_hr": 148,
+          "max_hr": 161,
+          "avg_cadence": 67.59375,
+          "zone": 2,
+          "training_load": 4.102736,
+          "decoupling": 4.981226
+        },
+        {
+          "type": "WORK",
+          "label": "20s@460w100rpm",
+          "duration_secs": 20,
+          "avg_power": 460,
+          "max_power": 542,
+          "avg_hr": 156,
+          "max_hr": 161,
+          "avg_cadence": 99.9,
+          "zone": 7,
+          "training_load": 0.56668496,
+          "decoupling": 12.597509
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 5970,
+          "avg_power": 150,
+          "max_power": 777,
+          "avg_hr": 131,
+          "max_hr": 165,
+          "avg_cadence": 75.232834,
+          "zone": 1,
+          "training_load": 68.51343,
+          "decoupling": 6.758743
         }
       ]
     }
