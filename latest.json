@@ -73,7 +73,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-05-23T09:44:25.438849",
+    "last_updated": "2026-05-23T11:00:59.430651",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.101"
@@ -605,7 +605,7 @@
     "p_max": 991,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-05-23T09:44:25.437849",
+    "calculation_timestamp": "2026-05-23T11:00:59.429563",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
@@ -623,7 +623,7 @@
       "id": "i150766424",
       "date": "2026-05-23T09:21:38",
       "type": "Ride",
-      "name": "Radfahren",
+      "name": "Was ist das denn f\u00fcr Musik?",
       "duration_hours": 1.86,
       "distance_km": 56.0,
       "tss": 87,
@@ -672,7 +672,8 @@
         }
       },
       "has_intervals": true,
-      "has_dfa": false
+      "has_dfa": false,
+      "description": "Das klingt ja super \ud83c\udfb6"
     },
     {
       "id": "18600676000",
