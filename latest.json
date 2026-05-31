@@ -73,7 +73,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-05-31T17:02:58.850355",
+    "last_updated": "2026-05-31T18:15:23.281795",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.101"
@@ -604,7 +604,7 @@
     "p_max": 1047,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-05-31T17:02:58.849360",
+    "calculation_timestamp": "2026-05-31T18:15:23.280721",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
@@ -622,7 +622,7 @@
       "id": "i152985053",
       "date": "2026-05-31T10:42:25",
       "type": "Ride",
-      "name": "Eclipse -3",
+      "name": "3 L\u00e4ndereck",
       "duration_hours": 5.89,
       "distance_km": 113.85,
       "tss": 255,
@@ -671,7 +671,8 @@
         }
       },
       "has_intervals": true,
-      "has_dfa": false
+      "has_dfa": false,
+      "description": "\ud83c\uddf8\ud83c\uddee\ud83c\uddee\ud83c\uddf9\ud83c\udde6\ud83c\uddf9"
     },
     {
       "id": "i152330618",
