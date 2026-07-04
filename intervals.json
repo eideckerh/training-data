@@ -1,31 +1,10 @@
 {
-  "generated_at": "2026-07-03T23:39:14.970531",
+  "generated_at": "2026-07-04T01:13:33.684141",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i158627559",
-      "date": "2026-06-19",
-      "type": "Ride",
-      "name": "Radfahren",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 6744,
-          "avg_power": 177,
-          "max_power": 941,
-          "avg_hr": 132,
-          "max_hr": 155,
-          "avg_cadence": 75.35945,
-          "zone": 2,
-          "training_load": 75.26886,
-          "decoupling": 6.2172623
-        }
-      ]
-    },
     {
       "activity_id": "i159487789",
       "date": "2026-06-22",
