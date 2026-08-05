@@ -1,57 +1,10 @@
 {
-  "generated_at": "2026-08-04T23:16:19.976038",
+  "generated_at": "2026-08-05T00:51:29.497104",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i167957694",
-      "date": "2026-07-21",
-      "type": "Ride",
-      "name": "Wieder lebendig \ud83c\uddeb\ud83c\uddf7",
-      "interval_summary": [
-        "1x 18s 500w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 6929,
-          "avg_power": 144,
-          "max_power": 663,
-          "avg_hr": 130,
-          "max_hr": 152,
-          "avg_cadence": 60.402363,
-          "zone": 1,
-          "training_load": 69.120865
-        },
-        {
-          "type": "WORK",
-          "label": "18s@500w69rpm",
-          "duration_secs": 18,
-          "avg_power": 500,
-          "max_power": 595,
-          "avg_hr": 137,
-          "max_hr": 148,
-          "avg_cadence": 69.166664,
-          "zone": 7,
-          "training_load": 0.3934228,
-          "decoupling": 26.01294
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 58,
-          "avg_power": 147,
-          "max_power": 391,
-          "avg_hr": 150,
-          "max_hr": 155,
-          "avg_cadence": 46.77193,
-          "zone": 1,
-          "training_load": 1.7672322,
-          "decoupling": 54.81776
-        }
-      ]
-    },
     {
       "activity_id": "i168215532",
       "date": "2026-07-22",
