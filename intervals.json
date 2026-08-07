@@ -1,31 +1,10 @@
 {
-  "generated_at": "2026-08-06T13:15:29.140303",
+  "generated_at": "2026-08-07T00:34:52.438990",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i168426837",
-      "date": "2026-07-23",
-      "type": "Ride",
-      "name": "Beine lockern",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 6377,
-          "avg_power": 120,
-          "max_power": 618,
-          "avg_hr": 114,
-          "max_hr": 143,
-          "avg_cadence": 49.668667,
-          "zone": 1,
-          "training_load": 46.887646,
-          "decoupling": 10.047819
-        }
-      ]
-    },
     {
       "activity_id": "i168981651",
       "date": "2026-07-24",
