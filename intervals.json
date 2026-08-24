@@ -1,83 +1,10 @@
 {
-  "generated_at": "2026-08-23T23:54:29.066000",
+  "generated_at": "2026-08-24T00:32:38.895078",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i174054525",
-      "date": "2026-08-09",
-      "type": "Ride",
-      "name": "Kuchen am Longi",
-      "interval_summary": [
-        "1x 26s 514w",
-        "1x 19s 480w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 6164,
-          "avg_power": 156,
-          "max_power": 439,
-          "avg_hr": 125,
-          "max_hr": 162,
-          "avg_cadence": 75.50759,
-          "zone": 1,
-          "training_load": 38.77551
-        },
-        {
-          "type": "WORK",
-          "label": "26s@514w89rpm",
-          "duration_secs": 26,
-          "avg_power": 514,
-          "max_power": 609,
-          "avg_hr": 165,
-          "max_hr": 169,
-          "avg_cadence": 89.46154,
-          "zone": 7,
-          "training_load": 1.5856509,
-          "decoupling": -10.664534
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 382,
-          "avg_power": 125,
-          "max_power": 456,
-          "avg_hr": 132,
-          "max_hr": 169,
-          "avg_cadence": 52.56085,
-          "zone": 1,
-          "training_load": 3.582477,
-          "decoupling": -65.25843
-        },
-        {
-          "type": "WORK",
-          "label": "19s@480w92rpm",
-          "duration_secs": 19,
-          "avg_power": 480,
-          "max_power": 587,
-          "avg_hr": 150,
-          "max_hr": 154,
-          "avg_cadence": 91.8421,
-          "zone": 7,
-          "training_load": 0.7258845,
-          "decoupling": -18.653894
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 3531,
-          "avg_power": 150,
-          "max_power": 462,
-          "avg_hr": 130,
-          "max_hr": 155,
-          "avg_cadence": 76.951164,
-          "zone": 1,
-          "training_load": 27.896788,
-          "decoupling": -2.5701118
-        }
-      ]
-    },
     {
       "activity_id": "i174479929",
       "date": "2026-08-10",
