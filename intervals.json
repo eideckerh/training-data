@@ -1,58 +1,10 @@
 {
-  "generated_at": "2026-08-28T22:40:04.915922",
+  "generated_at": "2026-08-29T03:51:14.561508",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i175831859",
-      "date": "2026-08-14",
-      "type": "Ride",
-      "name": "36 Grad",
-      "interval_summary": [
-        "1x 27s 457w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 4770,
-          "avg_power": 160,
-          "max_power": 525,
-          "avg_hr": 125,
-          "max_hr": 145,
-          "avg_cadence": 76.766624,
-          "zone": 1,
-          "training_load": 42.49433,
-          "decoupling": 7.5588083
-        },
-        {
-          "type": "WORK",
-          "label": "27s@457w85rpm",
-          "duration_secs": 27,
-          "avg_power": 457,
-          "max_power": 526,
-          "avg_hr": 135,
-          "max_hr": 142,
-          "avg_cadence": 85.07407,
-          "zone": 7,
-          "training_load": 0.94571805,
-          "decoupling": 5.618909
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 2207,
-          "avg_power": 147,
-          "max_power": 516,
-          "avg_hr": 125,
-          "max_hr": 143,
-          "avg_cadence": 73.2479,
-          "zone": 1,
-          "training_load": 19.682539,
-          "decoupling": 3.5882044
-        }
-      ]
-    },
     {
       "activity_id": "i176476360",
       "date": "2026-08-16",
