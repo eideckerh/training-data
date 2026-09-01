@@ -1,49 +1,10 @@
 {
-  "generated_at": "2026-08-31T23:21:17.181933",
+  "generated_at": "2026-09-01T01:53:22.216501",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i176859180",
-      "date": "2026-08-17",
-      "type": "Ride",
-      "name": "Beine aussch\u00fctteln",
-      "interval_summary": [
-        "1x 41s 621w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 4000,
-          "avg_power": 190,
-          "max_power": 558,
-          "avg_cadence": 81.73683,
-          "zone": 2,
-          "training_load": 47.33275
-        },
-        {
-          "type": "WORK",
-          "label": "41s@621w94rpm",
-          "duration_secs": 41,
-          "avg_power": 621,
-          "max_power": 728,
-          "avg_cadence": 93.560974,
-          "zone": 7,
-          "training_load": 3.844135
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 3589,
-          "avg_power": 178,
-          "max_power": 480,
-          "avg_cadence": 76.62747,
-          "zone": 2,
-          "training_load": 42.040253
-        }
-      ]
-    },
     {
       "activity_id": "i177973481",
       "date": "2026-08-20",
