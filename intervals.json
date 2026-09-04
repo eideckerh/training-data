@@ -1,58 +1,10 @@
 {
-  "generated_at": "2026-09-03T22:56:44.531613",
+  "generated_at": "2026-09-04T00:33:50.677084",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i177973481",
-      "date": "2026-08-20",
-      "type": "Ride",
-      "name": "Radfahren",
-      "interval_summary": [
-        "1x 2m41s 295w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1175,
-          "avg_power": 169,
-          "max_power": 497,
-          "avg_hr": 129,
-          "max_hr": 152,
-          "avg_cadence": 70.79834,
-          "zone": 2,
-          "training_load": 10.490271,
-          "decoupling": -12.756454
-        },
-        {
-          "type": "WORK",
-          "label": "161s@295w94rpm",
-          "duration_secs": 161,
-          "avg_power": 295,
-          "max_power": 385,
-          "avg_hr": 157,
-          "max_hr": 162,
-          "avg_cadence": 93.639755,
-          "zone": 4,
-          "training_load": 4.208779,
-          "decoupling": 3.2229881
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 6524,
-          "avg_power": 172,
-          "max_power": 460,
-          "avg_hr": 126,
-          "max_hr": 160,
-          "avg_cadence": 79.297295,
-          "zone": 2,
-          "training_load": 64.797295,
-          "decoupling": -0.34410724
-        }
-      ]
-    },
     {
       "activity_id": "i178278096",
       "date": "2026-08-21",
