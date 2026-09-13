@@ -1,28 +1,10 @@
 {
-  "generated_at": "2026-09-12T22:41:53.730110",
+  "generated_at": "2026-09-13T00:19:03.785648",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i180963901",
-      "date": "2026-08-29",
-      "type": "Ride",
-      "name": "NoKi Windkanone",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 9000,
-          "avg_power": 179,
-          "max_power": 651,
-          "avg_cadence": 78.269455,
-          "zone": 2,
-          "training_load": 92.6065
-        }
-      ]
-    },
     {
       "activity_id": "i182181922",
       "date": "2026-09-01",
