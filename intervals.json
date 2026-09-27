@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T12:25:24.311562",
+  "generated_at": "2026-09-27T17:05:44.511037",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
@@ -1500,6 +1500,24 @@
           "avg_cadence": 65.95506,
           "zone": 1,
           "training_load": 48.346416
+        }
+      ]
+    },
+    {
+      "activity_id": "i190842781",
+      "date": "2026-09-27",
+      "type": "Ride",
+      "name": "Doppel-Kuchen Ausrollung",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 9658,
+          "avg_power": 106,
+          "max_power": 724,
+          "avg_cadence": 61.22541,
+          "zone": 1,
+          "training_load": 29.839283
         }
       ]
     }
