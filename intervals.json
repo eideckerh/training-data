@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T15:23:50.565579",
+  "generated_at": "2026-10-02T19:59:37.057370",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
@@ -1171,6 +1171,45 @@
           "avg_cadence": 73.11034,
           "zone": 2,
           "training_load": 26.980326
+        }
+      ]
+    },
+    {
+      "activity_id": "i192689372",
+      "date": "2026-10-02",
+      "type": "Ride",
+      "name": "mofa SOCIAL RIDE",
+      "interval_summary": [
+        "1x 52s 345w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 4692,
+          "avg_power": 134,
+          "max_power": 486,
+          "avg_cadence": 64.73944,
+          "zone": 1,
+          "training_load": 35.05753
+        },
+        {
+          "type": "WORK",
+          "label": "52s@345w83rpm",
+          "duration_secs": 52,
+          "avg_power": 345,
+          "max_power": 396,
+          "avg_cadence": 83.38461,
+          "zone": 5,
+          "training_load": 1.8756685
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 4848,
+          "avg_power": 111,
+          "max_power": 520,
+          "avg_cadence": 56.41062,
+          "zone": 1,
+          "training_load": 25.633755
         }
       ]
     }
