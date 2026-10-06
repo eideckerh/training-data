@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T14:32:59.462649",
+  "generated_at": "2026-10-06T23:24:12.655803",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
@@ -1621,6 +1621,45 @@
           "avg_cadence": 76.67538,
           "zone": 2,
           "training_load": 62.78953
+        }
+      ]
+    },
+    {
+      "activity_id": "i194346842",
+      "date": "2026-10-06",
+      "type": "Ride",
+      "name": "Radfahren",
+      "interval_summary": [
+        "1x 4m32s 237w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3920,
+          "avg_power": 168,
+          "max_power": 356,
+          "avg_cadence": 76.851006,
+          "zone": 2,
+          "training_load": 36.961205
+        },
+        {
+          "type": "WORK",
+          "label": "272s@237w85rpm",
+          "duration_secs": 272,
+          "avg_power": 237,
+          "max_power": 295,
+          "avg_cadence": 84.79412,
+          "zone": 3,
+          "training_load": 4.6054187
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1500,
+          "avg_power": 166,
+          "max_power": 446,
+          "avg_cadence": 72.02666,
+          "zone": 2,
+          "training_load": 14.870939
         }
       ]
     }
