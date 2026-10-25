@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T00:18:12.184796",
+  "generated_at": "2026-10-25T09:34:10.423382",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
@@ -425,6 +425,63 @@
           "avg_cadence": 51.88421,
           "zone": 1,
           "training_load": 43.283447
+        }
+      ]
+    },
+    {
+      "activity_id": "i201321718",
+      "date": "2026-10-25",
+      "type": "Ride",
+      "name": "Cap mit Sonnenaufgang",
+      "interval_summary": [
+        "1x 4m22s 278w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 7233,
+          "avg_power": 147,
+          "max_power": 479,
+          "avg_cadence": 56.93782,
+          "zone": 1,
+          "training_load": 59.511356
+        },
+        {
+          "type": "WORK",
+          "label": "262s@278w83rpm",
+          "duration_secs": 262,
+          "avg_power": 278,
+          "max_power": 359,
+          "avg_cadence": 83.48473,
+          "zone": 4,
+          "training_load": 6.1190495
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1355,
+          "avg_power": 114,
+          "max_power": 518,
+          "avg_cadence": 38.72165,
+          "zone": 1,
+          "training_load": 10.364991
+        }
+      ]
+    },
+    {
+      "activity_id": "i201299424",
+      "date": "2026-10-24",
+      "type": "Ride",
+      "name": "Sa Mola & Joy",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 13811,
+          "avg_power": 154,
+          "max_power": 402,
+          "avg_cadence": 73.44342,
+          "zone": 1,
+          "training_load": 88.18939
         }
       ]
     }
