@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T22:27:38.634635",
+  "generated_at": "2026-11-08T01:39:47.062644",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
@@ -41,24 +41,6 @@
           "avg_cadence": 38.72165,
           "zone": 1,
           "training_load": 10.364991
-        }
-      ]
-    },
-    {
-      "activity_id": "i201299424",
-      "date": "2026-10-24",
-      "type": "Ride",
-      "name": "Sa Mola & Joy",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 13811,
-          "avg_power": 154,
-          "max_power": 402,
-          "avg_cadence": 73.44342,
-          "zone": 1,
-          "training_load": 88.18939
         }
       ]
     },
