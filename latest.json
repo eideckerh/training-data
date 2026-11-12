@@ -67,13 +67,13 @@
     "quick_stats": {
       "total_training_hours": 5.57,
       "total_training_formatted": "5h34m",
-      "total_activities": 4,
+      "total_activities": 5,
       "total_tss": 339
     }
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-11-12T12:38:03.469273",
+    "last_updated": "2026-11-12T20:25:15.344406",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.101"
@@ -111,7 +111,7 @@
       },
       "tsb": {
         "status": "green",
-        "value": 10.1
+        "value": 1.2
       }
     },
     "signal_summary": {
@@ -142,7 +142,7 @@
     "period_description": "Last 7 days of training (including today)",
     "note": "Duration calculated from API moving_time field.",
     "total_duration_decimal_hours": 5.57,
-    "total_activities": 4,
+    "total_activities": 5,
     "by_activity_type": {
       "Ride": {
         "duration_decimal_hours": 5.57,
@@ -152,7 +152,7 @@
       },
       "Unknown": {
         "duration_decimal_hours": 0.0,
-        "count": 1,
+        "count": 2,
         "tss": 0,
         "distance_km": 0.0
       }
@@ -160,10 +160,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 55.7,
-      "atl": 45.61,
-      "tsb": 10.09,
-      "ramp_rate": 1.11,
+      "ctl": 57.6,
+      "atl": 56.39,
+      "tsb": 1.21,
+      "ramp_rate": 3.02,
       "fitness_source": "From Intervals.icu API (reflects completed workouts)"
     },
     "thresholds": {
@@ -549,7 +549,7 @@
       ],
       "basis": {
         "stream_1": {
-          "ctl_slope": -3.25,
+          "ctl_slope": -2.3,
           "acwr_trend": "falling",
           "hard_day_pattern": 1.8,
           "weeks_available": 4
@@ -595,12 +595,12 @@
     "p_max": 1036,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-11-12T12:38:03.468205",
+    "calculation_timestamp": "2026-11-12T20:25:15.343375",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
-      "activities_7d": 4,
-      "activities_28d": 13,
+      "activities_7d": 5,
+      "activities_28d": 14,
       "planned_workouts_7d": 0,
       "ftp_history_days": {
         "indoor": 214,
@@ -609,6 +609,42 @@
     }
   },
   "recent_activities": [
+    {
+      "id": "20961182224",
+      "date": "2026-11-12T14:51:36",
+      "type": "Unknown",
+      "name": "",
+      "duration_hours": 0.0,
+      "distance_km": 0.0,
+      "tss": null,
+      "intensity_factor": null,
+      "avg_power": null,
+      "normalized_power": null,
+      "avg_hr": null,
+      "max_hr": null,
+      "avg_cadence": null,
+      "avg_speed": null,
+      "max_speed": null,
+      "avg_pace": null,
+      "avg_temp": null,
+      "weather": null,
+      "humidity": null,
+      "wind_speed": null,
+      "work_kj": null,
+      "calories": null,
+      "carbs_used": null,
+      "carbs_ingested": null,
+      "variability_index": null,
+      "decoupling": null,
+      "efficiency_factor": null,
+      "hrrc": null,
+      "elevation_m": null,
+      "feel": null,
+      "rpe": null,
+      "zone_distribution": null,
+      "has_intervals": false,
+      "has_dfa": false
+    },
     {
       "id": "20935286603",
       "date": "2026-11-10T16:18:53",
@@ -1458,7 +1494,7 @@
     "total_training_hours": 5.57,
     "total_training_formatted": "5h34m",
     "total_tss": 339,
-    "activities_count": 4,
+    "activities_count": 5,
     "avg_hrv": null,
     "avg_resting_hr": null
   },
